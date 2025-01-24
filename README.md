@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Visitor Count](https://hits.dwyl.com/fernandodestefani/fernandodestefani.svg)
 
 <!--
 **fernandodestefani/fernandodestefani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
