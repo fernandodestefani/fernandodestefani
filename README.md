@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Visitor Count](https://hits.dwyl.com/fernandodestefani/fernandodestefani.svg)
+
+  [![HitCount](https://hits.dwyl.com/fernandodestefani/fernandodestefani.svg?style=flat-square&show=unique)](http://hits.dwyl.com/fernandodestefani/fernandodestefani)
 
 <!--
 **fernandodestefani/fernandodestefani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
