@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=fernandodestefani.fernandodestefani)](https://github.com/fernandodestefani)
+![Visitors](https://komarev.com/ghpvc/?username=fernandodestefani&color=blue)
   
 <!--
 **fernandodestefani/fernandodestefani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
