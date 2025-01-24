@@ -2,7 +2,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=fernandodestefani&color=blue)
 
-![Fernando's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=fernandodestefani&theme=dark&hide_border=true)
+<!-- ![Fernando's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=fernandodestefani&theme=dark&hide_border=true) -->
 
 Hello! I'm Fernando Destefani, a **permanent resident of Canada** with a unique combination of expertise in **front-end development** and a background as a **medical doctor**. Currently in my 4th year of **Software Engineering** and holding a diploma as a **Computer Technician**, I am passionate about creating impactful **web and mobile applications** that blend technology and user-centric design.
 
