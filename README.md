@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![HitCount](https://hits.dwyl.com/fernandodestefani/fernandodestefani.svg?style=flat-square&show=unique)](http://hits.dwyl.com/fernandodestefani/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=fernandodestefani.fernandodestefani)](https://github.com/fernandodestefani)
   
 <!--
 **fernandodestefani/fernandodestefani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
