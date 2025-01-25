@@ -6,16 +6,16 @@
 
 Hello! I'm Fernando Destefani, a **permanent resident of Canada** with a unique combination of expertise in **front-end development** and a background as a **medical doctor**. Currently in my 4th year of **Software Engineering** and holding a diploma as a **Computer Technician**, I am passionate about creating impactful **web and mobile applications** that blend technology and user-centric design.
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 
-| Ferramenta/ Linguagem | Símbolo |
-| --------------------- | ------- |
-| Figma                 | 🖌️      |
-| HTML5                 | 🌐      |
-| CSS3                  | 🎨      |
-| JavaScript            | 💻      |
-| React Native          | 📱      |
-| Python                | 🐍      |
+| Tool / Language       | Icon                                                                                       |
+| --------------------- | ------------------------------------------------------------------------------------------ |
+| **Figma**             | <div align="center">![Figma](https://img.shields.io/badge/Figma-%2312100E.svg?style=for-the-badge&logo=figma&logoColor=default)</div> |
+| **HTML5**             | <div align="center">![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</div> |
+| **CSS3**              | <div align="center">![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</div> |
+| **JavaScript**        | <div align="center">![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)</div> |
+| **React Native**      | <div align="center">![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</div> |
+| **Python**            | <div align="center">![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)</div> |
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodestefani&theme=dark)](https://github.com/fernandodestefani) -->
 
