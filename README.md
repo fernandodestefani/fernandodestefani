@@ -2,12 +2,19 @@
 
 <!-- ![Fernando's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=fernandodestefani&theme=dark&hide_border=true)<! -->
 
-Hello! I'm Fernando Destefani, a **permanent resident of Canada** with a unique combination of expertise in **front-end development** and a background as a **medical doctor**. 
+Hello! I'm Fernando Destefani, a **permanent resident of Canada** with a 🌟unique🌟 combination of expertise in **front-end development** and a background as a **medical doctor**. 
+
+
+👨‍⚕️ **My Journey**
 
 My journey has been anything but linear:
 I started with a Computer Technician diploma, became a medical doctor, and after years in healthcare, I decided to return to my first passion — technology.  
 
-What I enjoy most today is creating applications — especially in the medical field — where I can blend my background in healthcare with software development to build solutions that truly help people.
+💡 **What I Do Today**
+
+Along the way, I gained not only technical skills, but also the ability to solve problems under pressure, think critically, and understand the needs of people in a very human context. Combined with my medical knowledge, this gives me a unique perspective that I now apply to building software — especially when it comes to projects in healthcare and technology.
+
+![ai-generated-8684869_640 (1) (2)](https://github.com/user-attachments/assets/5dd38b7c-35ba-4353-8c6d-dea020b1d8b7)
 
 ## Technologies and Tools
 
@@ -26,11 +33,11 @@ What I enjoy most today is creating applications — especially in the medical f
 <!-- ## 🌟 My Unique Background
 As a **former family doctor**, I developed strong **soft skills** such as effective communication, empathy, problem-solving, and teamwork. These skills have seamlessly transitioned into my work as a developer, enabling me to collaborate effectively and create solutions tailored to real-world needs. -->
 
-## 🔭 What's Next?
+<!-- ## 🔭 What's Next?
 I'm currently focused on:
 - Advancing my skills as a **front-end developer**.
 - Building modern, user-friendly **web and mobile applications**.
-- Combining my technical knowledge and medical experience to create innovative projects.
+- Combining my technical knowledge and medical experience to create innovative projects. -->
 
 ---
 
