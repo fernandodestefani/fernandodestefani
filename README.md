@@ -41,7 +41,7 @@ I'm currently focused on:
 
 ---
 
-If you have any questions, ideas, or just want to connect — especially related to **healthcare and medical applications** — feel free to reach out. I look forward to collaborating with you!<br>
+Always happy to discuss new ideas in healthcare and technology — or simply share a good coffee and conversation. Let’s connect!<br>
 
 <p>
   <img src="https://github.com/user-attachments/assets/e0ae5edc-1a71-4e67-83e7-7b6c626c3e94" alt="coffee GIF" width="100"/>
