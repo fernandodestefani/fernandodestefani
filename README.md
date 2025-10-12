@@ -9,7 +9,6 @@ Hello! I'm Fernando Destefani, a **permanent resident of Canada** with a 🌟uni
 
 My journey has been anything but linear:
 I started with a Computer Technician diploma, became a medical doctor, and after years in healthcare, I decided to return to my first passion — technology.
-Throughout my journey, I developed strong technical and problem-solving skills, along with the ability to think critically and understand people’s needs in a human-centered way.
 
 💡 **What I Do Today**
 
