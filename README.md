@@ -12,7 +12,7 @@ I started with a Computer Technician diploma, became a medical doctor, and after
 
 💡 **What I Do Today**
 
-Along the way, I gained not only technical skills, but also the ability to solve problems under pressure, think critically, and understand the needs of people in a very human context. Combined with my medical knowledge, this gives me a unique perspective that I now apply to building software — especially when it comes to projects in healthcare and technology.
+Throughout my journey, I developed strong technical and problem-solving skills, along with the ability to think critically and understand people’s needs in a human-centered way. Now, in the final year of my Software Engineering degree, I apply this combined expertise to create user-focused software solutions — especially in the fields of healthcare and technology, where I can truly understand user pain points, workflows, and requirements.
 
 ![ai-generated-8684869_640 (1) (2)](https://github.com/user-attachments/assets/5dd38b7c-35ba-4353-8c6d-dea020b1d8b7)
 
