@@ -8,11 +8,12 @@ Hello! I'm Fernando Destefani, a **permanent resident of Canada** with a 🌟uni
 👨‍⚕️ **My Journey**
 
 My journey has been anything but linear:
-I started with a Computer Technician diploma, became a medical doctor, and after years in healthcare, I decided to return to my first passion — technology.  
+I started with a Computer Technician diploma, became a medical doctor, and after years in healthcare, I decided to return to my first passion — technology.
+Throughout my journey, I developed strong technical and problem-solving skills, along with the ability to think critically and understand people’s needs in a human-centered way.
 
 💡 **What I Do Today**
 
-Throughout my journey, I developed strong technical and problem-solving skills, along with the ability to think critically and understand people’s needs in a human-centered way. Now, in the final year of my Software Engineering degree, I apply this combined expertise to create user-focused software solutions — especially in the fields of healthcare and technology, where I can truly understand user pain points, workflows, and requirements.
+Now, in the final year of my Software Engineering degree, I apply this combined expertise to create user-focused software solutions — especially in the fields of healthcare and technology, where I can truly understand user pain points, workflows, and requirements.
 
 ![ai-generated-8684869_640 (1) (2)](https://github.com/user-attachments/assets/5dd38b7c-35ba-4353-8c6d-dea020b1d8b7)
 
