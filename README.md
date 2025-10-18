@@ -4,19 +4,18 @@
 
 Hello! I'm Fernando Destefani, a **permanent resident of Canada** with a 🌟unique🌟 combination of expertise in **front-end development** and a background as a **medical doctor**. 
 
-
-👨‍⚕️ **My Journey**
+<h2 >👨‍⚕️ My Journey</h2>
 
 My journey has been anything but linear:
 I started with a Computer Technician diploma, became a medical doctor, and after years in healthcare, I decided to return to my first passion — technology.
 
-💡 **What I Do Today**
+<h2 >💡 What I Do Today</h2>
 
 Now, in the final year of my Software Engineering degree, I apply this combined expertise to create user-focused software solutions — especially in the fields of healthcare and technology, where I can truly understand user pain points, workflows, and requirements.
 
 ![ai-generated-8684869_640 (1) (2)](https://github.com/user-attachments/assets/5dd38b7c-35ba-4353-8c6d-dea020b1d8b7)
 
-## Technologies and Tools
+<h2>Technologies and Tools</h2>
 
 <div>
 <img src="https://img.shields.io/badge/Figma-%2312100E.svg?style=for-the-badge&logo=figma&logoColor=default" alt="Figma" />
