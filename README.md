@@ -26,6 +26,7 @@ Now, in the final year of my Software Engineering degree, I apply this combined 
 <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 <img src="https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+<img src="https://img.shields.io/badge/CSS_Modules-1572B6.svg?style=for-the-badge&logo=cssmodules&logoColor=white" alt="CSS Modules" />
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
