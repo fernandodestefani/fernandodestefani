@@ -30,6 +30,7 @@ Now, in the final year of my Software Engineering degree, I apply this combined 
 <img src="https://img.shields.io/badge/CSS_Modules-1572B6.svg?style=for-the-badge&logo=cssmodules&logoColor=white" alt="CSS Modules" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/styled--components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
