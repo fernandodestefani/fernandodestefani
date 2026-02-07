@@ -11,7 +11,7 @@ I started with a Computer Technician diploma, became a medical doctor, and after
 
 <h2 >💡 What I Do Today</h2>
 
-Now, in the final year of my Software Engineering degree, I apply this combined expertise to create user-focused software solutions — especially in the fields of healthcare and technology, where I can truly understand user pain points, workflows, and requirements.
+Now, in the final semester of my Software Engineering degree, I apply this combined expertise to create user-focused software solutions — especially in the fields of healthcare and technology, where I can truly understand user pain points, workflows, and requirements.
 
 ![ai-generated-8684869_640 (1) (2)](https://github.com/user-attachments/assets/5dd38b7c-35ba-4353-8c6d-dea020b1d8b7)
 
