@@ -28,6 +28,7 @@ Now, in the final semester of my Software Engineering degree, I apply this combi
 <img src="https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
 <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 <img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
+<img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/CSS_Modules-1572B6.svg?style=for-the-badge&logo=cssmodules&logoColor=white" alt="CSS Modules" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/styled--components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
