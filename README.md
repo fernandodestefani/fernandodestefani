@@ -1,6 +1,4 @@
-# Fernando Destefani
-
-<h2>Live long and code 🖖</h2>
+# Live long and code 🖖
 
 <h2>Technologies and Tools</h2>
 
